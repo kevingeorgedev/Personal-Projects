@@ -1,0 +1,37 @@
+{
+    "reddit_bot":{
+        "client_id" : "YOUR_REDDIT_BOT_CLIENT_ID",
+        "client_secret" : "YOUR_REDDIT_BOT_CLEINT_SECRET",
+        "user_agent" : "<console:Stocker:1.0>",
+        "subreddit" : [""],
+        "days_to_scan" : 7,
+        "amount_to_scan" : 1000
+    },
+    
+    "Google_Spreadsheet_Inputs":{
+        "service_account_file" : "keys.json",
+        "spreadsheet_id" : "YOUR_SPREADSHEET_ID"
+    },
+
+    "general_setup":{
+        "path_to_files" : "C:\\YOUR_DIRECTORY\\StockAnalyzer\\Files",
+        "stocks_file" : "stocks.txt",
+        "last_update_file" : "last_update_time.txt",
+        "updates":{
+            "_usage" : "must be a 0 (no) or 1 (yes)",
+            "initialize_reddit_bot" : 1,
+            "initializing_files" : 1,
+            "last_update_change" : 1,
+            "stocks_update" : 1,
+            "reading_last_update" : 1,
+            "reading_from_stocks" : 1,
+            "error_locating_stocks" : 1,
+            "stock_mention_increments" : 1,
+            "stock_added_to_stocks" : 1,
+            "updating_spreadsheet" : 1,
+            "spreadsheet_updated" : 1,
+            "valid_stocks_update" : 1,
+            "non_stocks_update" : 1
+        }
+    }
+}

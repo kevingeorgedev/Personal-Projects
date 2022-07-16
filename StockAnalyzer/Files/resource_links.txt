@@ -1,0 +1,1 @@
+https://analyzingalpha.com/yfinance-python/#TickerInfo_Keys
