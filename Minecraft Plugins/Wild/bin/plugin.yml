@@ -1,9 +1,0 @@
-name: Wild
-author: Kevin George
-main: me.kevingeorge.Wild.Wild
-version: 1.0
-api-version: 1.18
-commands:
-   wild:
-      description: Spawn to a preset location in the wild.
-      usage: "Usage: /wild"
