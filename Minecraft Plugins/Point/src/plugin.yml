@@ -1,0 +1,8 @@
+name: Point
+author: Kevin George
+main: me.kevingeorge.Point.Point
+version: 1.0
+api-version: 1.19
+commands:
+   setdirection:
+      description: Point yourself in the direction of a coordinate (x, z).

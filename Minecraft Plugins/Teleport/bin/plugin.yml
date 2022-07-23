@@ -1,0 +1,15 @@
+name: Teleport
+author: Kevin George
+main: me.kevingeorge.Teleport.Teleport
+version: 1.0
+api-version: 1.18
+commands:
+   tpa:
+      description: Request to teleport to another player.
+      usage: "Usage: /tpa [player]"
+   tpaccept:
+      description: Accept first teleport request sent to you.
+      usage: "Usage: /tpaccept"
+   tpdeny:
+      description: Deny all teleport requests.
+      usage: "Usage: /tpdeny"

@@ -1,0 +1,8 @@
+name: DistanceToLocation
+author: Kevin George
+main: me.kevingeorge.DistanceToLocation.DistanceTo
+version: 1.0
+api-version: 1.19
+commands:
+   getdistance:
+      description: Get distance to a coordinate.
