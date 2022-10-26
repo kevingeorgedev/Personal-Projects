@@ -6,7 +6,7 @@ from turtle import color
 #Reddit bot API
 import praw
 
-#Pyton imports
+#Python imports
 import time as tme
 from datetime import *
 import atexit
