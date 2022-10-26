@@ -1,3 +1,3 @@
 @echo off
-C:\.Development\Python\Reddit\StockAnalyzer\src\Main.py %*
+ENTER_PATH %*
 pause
