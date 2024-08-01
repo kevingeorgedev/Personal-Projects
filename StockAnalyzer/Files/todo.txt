@@ -1,3 +1,0 @@
--Get list of all tickers and import
--Colorize boxes in spreadsheets
-    
